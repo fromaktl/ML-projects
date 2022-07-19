@@ -1,1 +1,3 @@
-
+In this project I implemented character detection using tesseract.
+Detected English characters and showed how to implement for other languages, in my case it's Kazakh.
+Also, converted pdf to text.
