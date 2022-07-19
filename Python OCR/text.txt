@@ -1,0 +1,149 @@
+Beibarys Sagingaliyev
+
+Almaty, Kazakhstan * fromaktl@gmail.com + +7 (771) 168-0098 + 23/11/1998
+
+SUMMARY
+
+Data Analyst with solid working experience in collecting, wrangling, visualizing, analysing and reporting the data to make
+a decisions. Effectively and efficiently using advanced analytical tools and techniques. Applying automation and
+optimization procedures to deliver the result. Diverse in knowledge and experience: have working experience in Data
+Engineering and Data Science. Building ETL process with Python libraries, and experienced in designing and implementing
+
+Text-To-Speech models (GlowTTS, Tacotron2).
+Interested areas: Data Analytics, Data Engineering.
+Working mode: remotely, or office (willing to relocate if needed)
+
+PROFESSIONAL EXPERIENCE
+
+TENGIZCHEVROIL (TCO), Atyrau, Kazakhstan
+Senior Data Analyst
+
+e Setting up and maintaining database, building analytical
+dashboard, increasing management services operations.
+Decreased calculation time of key metrics from 180 mins
+to 5 mins ( x36 times) by automating tasks.
+
+e Providing analysis to improve cost efficiency. Optimized
+the meal forecast management, which decreased meal
+waste and saved over S 220 000 in a month.
+
+e Developing bi-weekly and monthly management reports
+and presentations.
+
+CYBERNET, Almaty, Kazakhstan
+Data Analyst and ML Engineer
+
+Responsibilities:
+
+Data Analysis
+
+e Built AI voice robot performance monitoring system using Python, ClickHouse and Grafana - which is allowing
+to detect failures in a real-time and take immediate
+decisions. Increased implementational response rate for
+100 percent.
+
+e Preparing and analysing the data using Python, SQL.
+Automated streaming of analytical metrics (ETL) by
+Python.
+
+e Visualising data on Grafana and Python libraries.
+
+e Suggesting and making decision on potential analytical
+project.
+
+December 2021-Present
+
+Built from scratch and automated analytical
+reports using Power BI and Power Query, which
+ensured monitoring management services.
+
+Serving as knowledgeable data specialist to
+teams from _ different departments, on
+consolidating and wrangling a data.
+
+October 2021 - Present
+
+ML
+
+Researching and implementing NVIDIA Text-toSpeech (TTS) models to use in production.
+Includes selecting and preparing datasets,
+setting hyperparameters, training and testing
+models.
+
+Designed, implemented and trained NVIDIA
+Tacotron2 in Uzbek language, which is now
+operating calls in Uzbekistan.
+
+Implementing and testing NVIDIA GlowTTS
+model, which is x2 times faster than previous
+model and could be used for real-time voice
+synthesis.
+MAXINUM CONSULTING GROUP, Almaty, Kazakhstan
+Business Analyst
+
+Responsibilities:
+
+Automated audit and analytics of small & medium sized e
+companies.
+
+Prepared and manipulated data on Excel and Google
+Sheets.
+
+Analysed business processes for logistic, retail, and
+pharmaceutical companies.
+
+EDUCATION
+
+KAZAKH-BRITISH TECHNICAL UNIVERSITY, Almaty, Kazakhstan
+Sep 2021- June 2023 (apprx.)
+
+Master of Science in Data Science,
+
+Current GPA: 3.83/74.00
+
+UNIVERSITY OF LONDON, London, UK
+
+Nov 2017- Oct 2020
+
+Bachelor of Science in Mathematics and Economics,
+Honours: Second Upper-Class Honours
+
+KAZAKH-BRITISH TECHNICAL UNIVERSITY, Almaty, Kazakhstan
+Aug 2016- Jul 2020
+Bachelor of Science in Economics
+
+ADDITIONAL SKILLS
+
+Proficient in MS Office (Word, Excel, PowerPoint), Outlook.
+Proficient in googling and finding answers.
+Working experience in Python and SQL (Postgres).
+
+February 2021 - October 2021
+
+Made informative dashboards and visualization
+on Power BI and Google Data Studio.
+
+Worked with IT department members in
+establishing automation and optimization of
+processes.
+
+Mentored junior business analysts on client
+support tasks.
+
+Proficient in pandas, numpy, scipy, matplotlib Python libraries for data analysis.
+Visualization and monitoring tools Grafana, Microsoft Power BI and Google Data Studio.
+
+Languages: Kazakh, English, Russian and conversational Turkish.
+
+Certificates and Achievements
+
+IELTS overall band 7.0, corresponds to C1 (valid until Sep 2022).
+
+GRE General: Quantitative reasoning 161/170 (valid until Nov 2024).
+
+AWS Academy ML Foundations certificate (issued May 2022).
+
+Coursera Yandex courses: Statistical analysis, Unsupervised learning certificate (issued May 2022).
+Kazakhstan government scholarship with stipend for bachelor and master’s programs.
+
+KaspiLab: Data Science certificate.
